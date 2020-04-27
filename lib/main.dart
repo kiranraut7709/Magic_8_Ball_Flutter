@@ -21,7 +21,7 @@ class BallPage extends StatelessWidget {
           style: TextStyle(
             fontFamily: 'Bangers',
             fontWeight: FontWeight.bold,
-            fontStyle: FontStyle.italic,
+            letterSpacing: 2,
             fontSize: 23.0,
           ),
         ),
