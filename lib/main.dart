@@ -22,7 +22,7 @@ class BallPage extends StatelessWidget {
             fontFamily: 'Bangers',
             fontWeight: FontWeight.bold,
             letterSpacing: 2,
-            fontSize: 23.0,
+            fontSize: 24.0,
           ),
         ),
         backgroundColor: Colors.deepOrange[900],
